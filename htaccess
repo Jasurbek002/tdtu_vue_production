@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Redirect HTTP to HTTPS
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+# Front-Controller
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
