@@ -1,0 +1,1 @@
+.card{display:flex;max-width:450px;flex-direction:column;align-items:flex-start;justify-content:space-evenly;border-radius:.375rem;--tw-bg-opacity: 1;background-color:rgb(255 255 255 / var(--tw-bg-opacity));padding:1rem;--tw-shadow-color: transparent;--tw-shadow: var(--tw-shadow-colored) }
