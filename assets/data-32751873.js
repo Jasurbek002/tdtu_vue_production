@@ -1,0 +1,1 @@
+import{b as r}from"./index-343b9bd8.js";const s=r("resStore",{state:()=>({data:[],bunner:[]}),getters:{getnews:t=>t.data,getBunner:t=>t.bunner},actions:{setData(t){this.data=t},setBunner(t){this.bunner=t},getOneNews(t){var e;return(e=this.data)==null?void 0:e.find(n=>n.id==t)}}});export{s as r};
