@@ -1,1 +1,0 @@
-import{d as e,o as t,c as n}from"./index-7764a801.js";const o={class:"w-full h-[80vh] flex justify-center items-center"},i=e({__name:"inno",setup(c){return window.location.href="https://www.innotechnopark.com/",(s,r)=>(t(),n("div",o," INNO TEXNOPARK "))}});export{i as default};
