@@ -1,0 +1,1 @@
+import{_ as e}from"./Row.vue_vue_type_script_setup_true_lang-8b5888b2.js";import{d as o,o as a,b as t}from"./index-77a59923.js";const m=o({__name:"Objects",setup(r){return(s,_)=>(a(),t(e,{label:"INTELEKTUAL MULK OBYEKTLARI"}))}});export{m as default};
