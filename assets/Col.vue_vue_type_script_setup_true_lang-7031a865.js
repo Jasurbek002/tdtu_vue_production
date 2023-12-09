@@ -1,0 +1,1 @@
+import{d as t,o as n,b as l,r as o,n as r}from"./index-e323c371.js";const i=t({__name:"Col",props:{styles:String,size:String},setup(e){return(s,a)=>(n(),l("div",{class:r(` ${e.size} flex items-center flex-col ${e.styles}`)},[o(s.$slots,"default")],2))}});export{i as _};
