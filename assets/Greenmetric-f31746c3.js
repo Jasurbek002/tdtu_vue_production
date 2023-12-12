@@ -1,6 +1,0 @@
-import{_ as n}from"./Row.vue_vue_type_script_setup_true_lang-dcfd8c7c.js";import{_ as e}from"./List.vue_vue_type_script_setup_true_lang-eedf7788.js";import{d as t,c as r,w as o,o as s,g as i,u as a}from"./index-6266c087.js";const l="/assets/green-78c18ce4.png",g="/assets/greenmetirc-c937e543.jpg",k=t({__name:"Greenmetric",setup(c){return(m,d)=>(s(),r(n,{label:"Greenmetric"},{default:o(()=>[i(e,{image:a(l),title:" Toshkent davlat texnika universiteti “Yashil reytingi “da",text:`Joriy yilning 12 – dekabrida “Greenmetric ning\r
-                    jahon universitetlarining ekologiya va atrof-muhit barqarorligi boʻyicha\r
-                    reytingini eʼlon qildi. Toshkent davlat texnika universiteti\r
-                    ilk bor xalqaro yashil universitetlar reytingida\r
-                    ishtirok etib “Greenmetric” reyting mezonlarida\r
-                    quyidagi natijalarga erishildi:`,styles:"bg-grenn"},null,8,["image"]),i(e,{image:a(g),title:"",text:"Xalqaro ekologik ya’ni “Greenmetrics” reytingida Toshkent davlat texnika universiteti 2022 yilda  butun dunyo bo‘yicha 1050 ta OTMlar ichida umumiy 6060 ball to‘plab, 491-o‘rinni, O‘zbekiston bo‘yicha 4 o‘rinni egalladi. ",styles:"bg-grenn"},null,8,["image"])]),_:1}))}});export{k as default};
